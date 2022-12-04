@@ -26,4 +26,4 @@ what a like do...
 
 
 ##
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-csouza/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/julio-csouza/](https://www.linkedin.com/in/hugo-luiz-feitosa-dos-santos-19b978169/))
