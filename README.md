@@ -19,6 +19,10 @@ In my professional experiences I have always contributed with research and proce
 
 ##
 
+<p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoluizMTB&langs_count=10&theme=tokyonight&layout=compact" alt="Hugo Santos :: Top Langs" />
+    </p>
+
 what a like do...
 
     Ride bike, watch series and make dashboards 
@@ -27,3 +31,4 @@ what a like do...
 
 ##
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-luiz-feitosa-dos-santos-19b978169/)
+
