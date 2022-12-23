@@ -15,8 +15,6 @@ My name is Hugo Luiz and I'm a programming student and data enthusiast looking t
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HugoluizMTB&icon=0&color=0)](https://visitcount.itsvg.in)
