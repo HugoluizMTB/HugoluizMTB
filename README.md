@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Hugo Luiz and I'm a programming student and data enthusiast looking to get into the business as a developer. I have experience in administration, logistics, business rules and creating dashboards using Looker Studio. In my professional experiences I have always contributed with research and process innovation, I study every day to build the most appropriate solutions possible.<br><br>
+My name is Hugo Luiz and I'm a web and mobile developer, data enthusiast looking to get into the business as a developer. I have experience in administration, logistics, business rules and creating dashboards using Looker Studio. In my professional experiences I have always contributed with research and process innovation, I study every day to build the most appropriate solutions possible.<br><br>
 
 
 ## 🌐 Socials:
