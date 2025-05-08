@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Hugo Luiz and I'm a web and mobile developer, data enthusiast im working in business consultant and web developer. I have experience in administration, logistics, business rules and creating dashboards using Looker Studio. In my professional experiences I have always contributed with research and process innovation..<br><br>
+My name is Hugo Santos and I'm a web and mobile developer, data enthusiast im working in business consultant and web developer. I have experience in administration, logistics, business rules and creating dashboards using Looker Studio. In my professional experiences I have always contributed with research and process innovation..<br><br>
 
 
 ## 🌐 Socials:
